@@ -10,9 +10,11 @@ This session has the following goals:
 - Build a basic webhook server to gather event notifications from Catalyst Center
 
 Files used in this lab:
+- requirements.txt file to install proper python packages
 - Message collections. These are Catalyst Center API JSON encoded responses:
   + Issues_collection_verified.json - collection of network issues 
   + Issues_enrichment_verified.json - collection of detailed issues
   + Events_collection_verified.json - collection of event notifications 
+- Jupyter notebook (DEVWKS-2452.ipynb) for some of the labs
 - A series of python scripts for the different labs
-- 
+- Presentation in PDF format
